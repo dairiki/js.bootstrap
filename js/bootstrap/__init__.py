@@ -9,4 +9,7 @@ bootstrap_js = Resource(library, 'js/bootstrap.js',
                         minified='js/bootstrap.min.js',
                         depends=[jquery, ])
 
+glyphicons = Resource(library, 'css/bootstrap-glyphicons.css',
+                      depends=[bootstrap_css])
+
 bootstrap = Group([bootstrap_css, bootstrap_js])

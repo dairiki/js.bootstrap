@@ -8,6 +8,8 @@ CHANGES
   - no more bootstrap-responsive.css
   - bootstrap-glyphicons have been moved to a separate package
 
+- add resource for bootstrap glyphicons 1.0.0
+
 2.3.2 (2013-08-02)
 ==================
 
