@@ -1,8 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '3.0.0rc3.dev1'
-
+version = '3.0.0.dev1'
 
 def read(*rnames):
     return open(os.path.join(os.path.dirname(__file__), *rnames)).read()

@@ -1,14 +1,11 @@
 CHANGES
 *******
 
-3.0.0rc1 (unreleased)
+3.0.0 (unreleased)
 ==================
 
-- update to bootstrap 3.0.0rc1 [dairiki]
+- update to bootstrap 3.0.0 [dairiki]
   - no more bootstrap-responsive.css
-  - bootstrap-glyphicons have been moved to a separate package
-
-- add resource for bootstrap glyphicons 1.0.0
 
 2.3.2 (2013-08-02)
 ==================
