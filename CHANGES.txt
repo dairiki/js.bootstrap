@@ -1,11 +1,23 @@
 CHANGES
 *******
 
-3.0.0 (unreleased)
+3.0.1 (unreleased)
 ==================
 
-- update to bootstrap 3.0.0 [dairiki]
-  - no more bootstrap-responsive.css
+- Nothing changed yet.
+
+
+3.0.0.1 (2013-10-01)
+====================
+
+- include missing theme.css [dairiki]
+
+
+3.0 (2013-09-30)
+================
+
+- update to bootstrap 3.0 [Christian Klinger]
+
 
 2.3.2 (2013-08-02)
 ==================
